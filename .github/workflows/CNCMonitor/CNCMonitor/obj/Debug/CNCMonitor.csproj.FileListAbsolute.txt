@@ -1,0 +1,7 @@
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\bin\Debug\CNCMonitor.exe.config
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\bin\Debug\CNCMonitor.exe
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\bin\Debug\CNCMonitor.pdb
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\obj\Debug\CNCMonitor.csproj.AssemblyReference.cache
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\obj\Debug\CNCMonitor.csproj.CoreCompileInputs.cache
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\obj\Debug\CNCMonitor.exe
+C:\Users\x6ggupta\source\repos\CNCMonitor\CNCMonitor\obj\Debug\CNCMonitor.pdb
